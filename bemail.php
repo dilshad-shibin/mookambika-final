@@ -75,7 +75,7 @@ $complete = curl_exec($ch);
 curl_close($ch);
 
     if($complete){
-        header("location:sucess/index.html");
+        header("location:download/index.html");
     }
 }
 

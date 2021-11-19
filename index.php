@@ -27,9 +27,24 @@ $medium=$_GET['utm_medium'];
     <link rel="stylesheet" href="assets/css/cookiealert.css">
     <link rel="stylesheet" href="assets/css/custom.css">
 
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NPDKRL2');</script>
+<!-- End Google Tag Manager -->
+
+
 </head>
 
 <body class="homepage-1">
+
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NPDKRL2"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
 
     <div class="main">
         <!-- ***** Header Start ***** -->
@@ -190,7 +205,7 @@ $medium=$_GET['utm_medium'];
                                 <div class="name"><h2>Theory</h2></div>
                             </div>
                             <div class="studio-para">
-                                <p class="thoery-p">The theory subjects complement and help alleviate the process of design through out the 5 years.</p>
+                                <p class="thoery-p">The theory subjects complement and help alleviate the process of design throughout the 5 years.</p>
                             </div>
                             <ul class="studio-points">
                                 <li>History Of Architecture</li>
@@ -204,7 +219,7 @@ $medium=$_GET['utm_medium'];
                                 <li>Human Settlements & Study of Sociology, Economics & Culture</li>
                                 <li>Estimating, Costing & Specification</li>
                                 <li>Building Bye Laws, Code Of Conduct & Professional Practice</li>
-                                <li>Constuction Technology & Project Management</li>
+                                <li>Construction Technology & Project Management</li>
                                 <li>Design for Disaster Mitigation & Management</li>
                                 <li>Sustainable Architecture</li>
                                 <li>Architectural Conservation</li>
@@ -215,13 +230,13 @@ $medium=$_GET['utm_medium'];
                         </div>
                     </div>
                 </div>
-                <div class="row">
+                <!--<div class="row">
                     <div class="col-12 text-center">
                         <div class="course-btn">
-                            <a href="#">Download Brochure</a>
+                            <a href="#" data-toggle="modal" data-target="#exampleModal1">Download Brochure</a>
                         </div>
                     </div>
-                </div>
+                </div>-->
             </div>
         </section>
 
@@ -298,15 +313,15 @@ $medium=$_GET['utm_medium'];
                                 <p>One of the best B.Arch colleges in Kerala, the School of Architecture, started with a humble beginning in 2013 in the village Eattappilly, Mannathur P.O,Muvattupuzha, Ernakulam district and now is ranked as one of the topmost Architecture colleges in Ernakulam. Among the best Private Architecture colleges in Kerala, it aspires to establish a system of Quality Assurance which would on a continuous basis evaluate and monitor the quality of education and training imparted at the institute, improve the teaching-learning process, and ultimately, develop the institute as a Centre of Excellence. Privileged to be one of the top Architecture colleges in Kerala, we provide them ample opportunities for giving their expression to their inner literary, creative, and artistic talents as well as sportsmanship. We want our students to be well-educated and well-trained to become responsible citizens.</p>
                             </div>
                             <div class="about-btn">
-                                <div class="brochure">
-                                    <a href="">
+                                <!--<div class="brochure">
+                                    <a href="#" data-toggle="modal" data-target="#exampleModal1">
                                         <div class="btn-icon"><i class="fas fa-file-download"></i></div>
                                         <div class="btn-text">
                                             <span>Download</span>
                                             <h4>Brochure</h4>
                                         </div>
                                     </a>
-                                </div>
+                                </div>-->
                                 <div class="apply">
                                     <a href="#" data-toggle="modal" data-target="#exampleModal0">Apply Now</a>
                                 </div>
@@ -555,7 +570,7 @@ $medium=$_GET['utm_medium'];
                 <div class="row">
                     <div class="col-12">
                         <div class="contact-box text-center">
-                            <form id="contact-form" name="form2" method="post" action="email.php">
+                            <form name="form2" method="post" action="email.php">
                                 <div class="row">
                                     <div class="col-12 col-md-6">
                                         <div class="form-group">
@@ -707,6 +722,76 @@ $medium=$_GET['utm_medium'];
                                 
                             </div>
                         </div>
+
+
+                        <div class="modal fade order-model" id="exampleModal1" tabindex="-1" role="dialog" aria-hidden="true">
+                            <div class="modal-dialog log-sign modal-mookambika" role="document">
+                                <div class="col-lg-6 p-0 text-center pp-left">
+                                    <div class="popupleft-content">
+                                        <h4>Limited Seats Only</h4>
+                                        <h3>Get A <span>Free</span> <br> Consultation</h3>
+                                        <h4>Our consultant will get in touch with you</h4>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 p-0">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <a href="#" class="download-close" data-dismiss="modal" aria-label="Close"><span>X</span></a>
+                                        </div>
+                                        <div id="letter5">
+                                            <div class="letter_inner">
+                                                <div class="heading color-b">
+                                                    <h2>Download Brochure</h2>
+                                                </div>
+                                                <div class="model-project-details">
+                                                    <div class="heading color-b">
+                                                        <div class="tab-content">
+                                                            <div role="tabpanel" class="tab-pane active tab-log" id="profile2">
+                                                                <form name="form4" method="post" action="bemail.php">
+                                                                    <div class="row">
+                                                                        <div class="col-12 col-md-12">
+                                                                            <div class="form-group">
+                                                                                <input type="text" class="form-control" placeholder="Name" name="name" required>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="col-12 col-md-12">
+                                                                            <div class="form-group">
+                                                                                <input class="form-control" placeholder="Phone" name="phone" required type="tel" pattern="[0-9]{10}" maxlength="10" oninvalid="this.setCustomValidity('Please Enter 10 Digit Number')" onchange="this.setCustomValidity('')">
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="col-12 col-md-12">
+                                                                            <div class="form-group">
+                                                                                <input type="email" class="form-control" placeholder="Email" name="email" required>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="col-12 col-md-12">
+                                                                            <div class="form-group">
+                                                                                <input type="hidden" name="esource" value="<?php echo $source;?>">
+                                                                                <input type="hidden" name="emedium" value="<?php echo $medium;?>">
+                                                                                <input type="submit" class="form-control" value="Submit" name="submit">
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </form>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+
+
+
+
+
+
+
+
                     </div>
                 </div>
             </div>

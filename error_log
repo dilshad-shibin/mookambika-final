@@ -28,3 +28,6 @@
 [02-Nov-2021 08:46:03 UTC] PHP Notice:  Undefined variable: headers in /home/qubixims/public_html/viralmafia.com/demo/mookambika-final/email.php on line 59
 [02-Nov-2021 08:46:13 UTC] PHP Notice:  Undefined variable: message in /home/qubixims/public_html/viralmafia.com/demo/mookambika-final/email.php on line 14
 [02-Nov-2021 08:46:13 UTC] PHP Notice:  Undefined variable: headers in /home/qubixims/public_html/viralmafia.com/demo/mookambika-final/email.php on line 59
+[05-Nov-2021 10:45:48 UTC] PHP Notice:  Undefined variable: headers in /home/qubixims/public_html/viralmafia.com/demo/mookambika-final/email.php on line 59
+[09-Nov-2021 12:15:37 UTC] PHP Notice:  Undefined variable: headers in /home/qubixims/public_html/viralmafia.com/demo/mookambika-final/email.php on line 59
+[10-Nov-2021 07:02:47 UTC] PHP Notice:  Undefined variable: headers in /home/qubixims/public_html/viralmafia.com/demo/mookambika-final/email.php on line 59
