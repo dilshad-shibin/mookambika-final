@@ -147,10 +147,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <img src="assets/img/b-arch.jpg" alt="">
                             </div>
                             <div class="content">
-                                <p>The Bachelor of Architecture is a five-year full time professional degree programme accredited by the Council of 
-                                    Architecture, New Delhi - a statutory body of Government of India that regulates Architectural education in India. The focus of the Degree Programme is the teaching of architectural design through studio and community based projects. The projects involve the application and integration of the knowledge and skills acquired from supporting courses. Critic sessions will form part of the studio procedure in teaching. Support courses include formal lectures, followed by seminars, market surveys, site visits, workshops and tutorials. In addition to design, key areas of B.Arch. programme are environmental design, urban design, building technology, computer aided design, 
-                                    history and theory landscape architecture, building conservation, project management, 
-                                    sustainable development and people/environment studies.</p>
+                                <p>The Bachelor of Architecture is a five-year full-time professional degree programme accredited by the Council of Architecture, New Delhi - a statutory body of the Government of India that regulates Architectural education in India. The focus of the Degree Programme, the best B Arch course in Kerala, is the teaching of architectural design through studio and community-based projects. The projects involve the application and integration of the knowledge and skills acquired from supporting courses. Critic sessions will form part of the studio procedure in teaching. Support courses include formal lectures, followed by seminars, market surveys, site visits, workshops, and tutorials. In addition to design, key areas of B Arch. programmes are environmental design, urban design, building technology, computer-aided design, history and theory, landscape architecture, building conservation, project management, sustainable development, and people/environment studies.</p>
                             </div>
                             <div class="arch-btn">
                                 <a href="#" data-toggle="modal" data-target="#exampleModal0">Apply Now</a>
@@ -167,7 +164,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="row">
                     <div class="col-12 text-center">
                         <div class="course-header">
-                            <h2>In general the course has two formats of teaching</h2>
+                            <h2>In general, the architecture course has two formats of teaching</h2>
                         </div>
                     </div>
                 </div>
@@ -179,7 +176,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="name"><h2>Studio</h2></div>
                             </div>
                             <div class="studio-para">
-                                <p class="studio-p">The subjects enlisted below are handled as a part of the studio. In a studio the students work hands-on on various projects in the subjects mentioned.</p>
+                                <p class="studio-p">The subjects listed below are handled as a part of the studio. In a studio, the students work hands-on on various projects in the subjects mentioned.</p>
                             </div>
                             <ul class="studio-points">
                                 <li>Architectural design</li>
@@ -218,7 +215,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <li>Architectural Acoustics</li>
                                 <li>Human Settlements & Study of Sociology, Economics & Culture</li>
                                 <li>Estimating, Costing & Specification</li>
-                                <li>Building Bye Laws, Code Of Conduct & Professional Practice</li>
+                                <li>Building By- Laws, Code Of Conduct & Professional Practice</li>
                                 <li>Construction Technology & Project Management</li>
                                 <li>Design for Disaster Mitigation & Management</li>
                                 <li>Sustainable Architecture</li>
@@ -310,7 +307,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <h3>School of Architecture</h3>
                             </div>
                             <div class="about-para">
-                                <p>One of the best B.Arch colleges in Kerala, the School of Architecture, started with a humble beginning in 2013 in the village Eattappilly, Mannathur P.O,Muvattupuzha, Ernakulam district and now is ranked as one of the topmost Architecture colleges in Ernakulam. Among the best Private Architecture colleges in Kerala, it aspires to establish a system of Quality Assurance which would on a continuous basis evaluate and monitor the quality of education and training imparted at the institute, improve the teaching-learning process, and ultimately, develop the institute as a Centre of Excellence. Privileged to be one of the top Architecture colleges in Kerala, we provide them ample opportunities for giving their expression to their inner literary, creative, and artistic talents as well as sportsmanship. We want our students to be well-educated and well-trained to become responsible citizens.</p>
+                                <p>One of the best B Arch colleges in Kerala, the School of Architecture, B Arch college started with a humble beginning in 2013 in the village Eattappilly, Mannathur P.O, Muvattupuzha, Ernakulam district and now is ranked as one of the topmost Architecture colleges in Ernakulam. Among the best Private Architecture colleges in Kerala, it aspires to establish a system of Quality Assurance that would continuously evaluate and monitor the quality of education and training imparted at the institute, improve the teaching-learning process, and ultimately, develop the institute as a Centre of Excellence. Privileged to be one of the top Architecture colleges in Kerala, we provide them ample opportunities for giving their expression to their inner literary, creative, and artistic talents as well as sportsmanship. We want our students to be well-educated and well-trained to become responsible citizens.</p>
                             </div>
                             <div class="about-btn">
                                 <!--<div class="brochure">

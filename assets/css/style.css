@@ -1156,8 +1156,8 @@ a,
     background-image: url(../img/bg/b-arch-img.jpg);
     background-position: center;
     background-size: cover;
-    height: 1000px;
-    padding: 60px 0;
+    /* height: 1000px; */
+    padding: 60px 0 100px;
 }
 
 .barch-main .head h1{ 
@@ -1372,7 +1372,7 @@ a,
 }
 
 .about-head{
-    margin-bottom: 34px;
+    margin-bottom: 20px;
 }
 
 .about-content{
@@ -1405,6 +1405,7 @@ a,
 .about-btn{
     display: flex;
     align-items: center;
+    margin-top: 50px;
 }
 
 .about-btn .brochure{
